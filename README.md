@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 
 - I like to learn new things ⚡
 - I love programming 😄
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-marish&theme=vue-dark&layout=compact)
